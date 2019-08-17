@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3144000611841262987}
   - component: {fileID: 6564439805310546308}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_hair_side_left_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -58,7 +58,7 @@ GameObject:
   - component: {fileID: 5365228747045684024}
   - component: {fileID: 8992589807293283664}
   - component: {fileID: 1183534046887941703}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_left_2_shade3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -167,7 +167,7 @@ GameObject:
   m_Component:
   - component: {fileID: 196775172904745036}
   - component: {fileID: 6013226737965005523}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_1_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -212,7 +212,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1734497483010032955}
   - component: {fileID: 2198608404238500164}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamBrowLAngle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -260,7 +260,7 @@ GameObject:
   - component: {fileID: 4512537355825239950}
   - component: {fileID: 8690070893906321427}
   - component: {fileID: 6946421501738948264}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: leg_right_knee_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -369,7 +369,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2234217936030798657}
   - component: {fileID: 5584935853276034330}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_back
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -417,7 +417,7 @@ GameObject:
   - component: {fileID: 2368887649549664832}
   - component: {fileID: 3360393839923457193}
   - component: {fileID: 8204057099277255631}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -526,7 +526,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5526718058067781081}
   - component: {fileID: 1969039787747083742}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_tail_mofu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -574,7 +574,7 @@ GameObject:
   - component: {fileID: 7818276268452783324}
   - component: {fileID: 7508837421471533938}
   - component: {fileID: 203349017728908312}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: tail_mofu9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -683,7 +683,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4404653233979422678}
   - component: {fileID: 43323066213839825}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_flower_string_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -728,7 +728,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8993273650042912892}
   - component: {fileID: 7847424485204326065}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -773,7 +773,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6264426142725808972}
   - component: {fileID: 9029382400277733547}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -821,7 +821,7 @@ GameObject:
   - component: {fileID: 4470203776735155572}
   - component: {fileID: 2226929460438287044}
   - component: {fileID: 5867733607185915084}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_left_side
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -933,7 +933,7 @@ GameObject:
   - component: {fileID: 8944555668762759335}
   - component: {fileID: 6794106536638779888}
   - component: {fileID: 962285723998931552}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_left6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1042,7 +1042,7 @@ GameObject:
   m_Component:
   - component: {fileID: 139212323317322140}
   - component: {fileID: 8845339297039272665}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_14_tail_mofu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1090,7 +1090,7 @@ GameObject:
   - component: {fileID: 4052902819255376276}
   - component: {fileID: 8248292590121825731}
   - component: {fileID: 229422155920491060}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_right_shade5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1199,7 +1199,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6178577933018492198}
   - component: {fileID: 4833234243324288635}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_flower_string_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1247,7 +1247,7 @@ GameObject:
   - component: {fileID: 6954766010404469446}
   - component: {fileID: 6206301069303527911}
   - component: {fileID: 7991220090353158917}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: leg_left_top
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1359,7 +1359,7 @@ GameObject:
   - component: {fileID: 2438651092151292806}
   - component: {fileID: 4751765171384781441}
   - component: {fileID: 5161085165211514634}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: strings_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1471,7 +1471,7 @@ GameObject:
   - component: {fileID: 8835938300868473438}
   - component: {fileID: 4186573344880176298}
   - component: {fileID: 1248163719543592060}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_right_top_fold
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1583,7 +1583,7 @@ GameObject:
   - component: {fileID: 1145526939530028190}
   - component: {fileID: 8774570769003841727}
   - component: {fileID: 5553764331299902739}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_right_extra_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1695,7 +1695,7 @@ GameObject:
   - component: {fileID: 8538095390573341580}
   - component: {fileID: 8601543341264789513}
   - component: {fileID: 941968975559134127}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_right2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1807,7 +1807,7 @@ GameObject:
   - component: {fileID: 723937792708311032}
   - component: {fileID: 1256907571271237175}
   - component: {fileID: 57458568056168853}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1919,7 +1919,7 @@ GameObject:
   - component: {fileID: 7756257898540234524}
   - component: {fileID: 4292285947892527784}
   - component: {fileID: 812097622374897183}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: flower_string_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2031,7 +2031,7 @@ GameObject:
   - component: {fileID: 553623875620865729}
   - component: {fileID: 7189344941721613858}
   - component: {fileID: 5341609725138045621}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: skirt_left_bottom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2140,7 +2140,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8502173521687219845}
   - component: {fileID: 7024362951376332428}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: legs_top
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2188,7 +2188,7 @@ GameObject:
   - component: {fileID: 7215499808919944003}
   - component: {fileID: 2629174748684000418}
   - component: {fileID: 8338470062199932672}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: flower_string_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2297,7 +2297,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7440676363002474041}
   - component: {fileID: 4206325518709351407}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_flower_string_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2342,7 +2342,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7943680449239521216}
   - component: {fileID: 589669399348957221}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_hair_skin_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2387,7 +2387,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8973125672773539992}
   - component: {fileID: 6733411639539545700}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_hair_mid_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2432,7 +2432,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5414256951638715342}
   - component: {fileID: 6915711209111645198}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_hair_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2477,7 +2477,7 @@ GameObject:
   m_Component:
   - component: {fileID: 253820751574794633}
   - component: {fileID: 4910351850476742135}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2522,7 +2522,7 @@ GameObject:
   m_Component:
   - component: {fileID: 45137335524279266}
   - component: {fileID: 6352244262414176860}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2567,7 +2567,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5658997966926084095}
   - component: {fileID: 3816637080344631096}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_right_shade_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2615,7 +2615,7 @@ GameObject:
   - component: {fileID: 5966532015426330798}
   - component: {fileID: 3579306538548363866}
   - component: {fileID: 979017245294020083}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_right_dots
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2724,7 +2724,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2366271037518388088}
   - component: {fileID: 1047592321546423808}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_hair_side_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2769,7 +2769,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9075629963341729118}
   - component: {fileID: 7046660401790947501}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_7_flower_string_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2814,7 +2814,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8576086871413897772}
   - component: {fileID: 5345139668762554326}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_ear_left_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2862,7 +2862,7 @@ GameObject:
   - component: {fileID: 3911715337666932974}
   - component: {fileID: 1239422445190264012}
   - component: {fileID: 6026386783175003779}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_right_top2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2971,7 +2971,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6809177445324845692}
   - component: {fileID: 9174466933692815421}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_hair_side_left_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3016,7 +3016,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8820486019617194895}
   - component: {fileID: 1841797131071385000}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_hair_mid_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3064,7 +3064,7 @@ GameObject:
   - component: {fileID: 8112908218561508114}
   - component: {fileID: 3758693431338049077}
   - component: {fileID: 3177055304222257220}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: tail_mofu4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3176,7 +3176,7 @@ GameObject:
   - component: {fileID: 7495311111180330267}
   - component: {fileID: 1512423806916589531}
   - component: {fileID: 4386419209260339834}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_right_shade6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3285,7 +3285,7 @@ GameObject:
   m_Component:
   - component: {fileID: 933032251627154749}
   - component: {fileID: 845238258986838111}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_hair_a2_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3330,7 +3330,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3288866477725308651}
   - component: {fileID: 3637263035954531075}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_hair_mid_ex
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3378,7 +3378,7 @@ GameObject:
   - component: {fileID: 3044177591731491998}
   - component: {fileID: 523137567774712938}
   - component: {fileID: 5550973247937642777}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3490,7 +3490,7 @@ GameObject:
   - component: {fileID: 3675073734051079444}
   - component: {fileID: 7422492821997583580}
   - component: {fileID: 8348926485090402317}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3599,7 +3599,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1364647755005673596}
   - component: {fileID: 2222100115158750106}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_hair_side_left_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3644,7 +3644,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7352916380980224596}
   - component: {fileID: 4360128550006515259}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3692,7 +3692,7 @@ GameObject:
   - component: {fileID: 1330320263575341386}
   - component: {fileID: 7157689615087625183}
   - component: {fileID: 315410279761769957}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: flower_bottom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3801,7 +3801,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3087209230369563535}
   - component: {fileID: 4923511567406403444}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid_left_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3846,7 +3846,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4979828128625865182}
   - component: {fileID: 525406333234290595}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_left_in_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3891,7 +3891,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6768059002852313631}
   - component: {fileID: 9142677103599255451}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3936,7 +3936,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4058903733880945579}
   - component: {fileID: 3870956786763829330}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_hair_a2_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3984,7 +3984,7 @@ GameObject:
   - component: {fileID: 2359379934014814083}
   - component: {fileID: 8414131577148413642}
   - component: {fileID: 3794137273575460231}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: flower_string_9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4093,7 +4093,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8181909980959873529}
   - component: {fileID: 1516633469643984198}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_hair_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4138,7 +4138,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6928923920441915184}
   - component: {fileID: 2298439009907641609}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: skirt_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4183,7 +4183,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4589359763447305508}
   - component: {fileID: 1409018444165914535}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4231,7 +4231,7 @@ GameObject:
   - component: {fileID: 442222795044231181}
   - component: {fileID: 7739707686781831940}
   - component: {fileID: 8789366169057462196}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_left_7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4340,7 +4340,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7544815396366434481}
   - component: {fileID: 3648797478204716469}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_hair_side_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4385,7 +4385,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3121792316856349709}
   - component: {fileID: 2451436788843240964}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_hair_side_left_2_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4433,7 +4433,7 @@ GameObject:
   - component: {fileID: 5543711869611649943}
   - component: {fileID: 3309527640288613583}
   - component: {fileID: 1775476270075138002}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_right_shade4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4545,7 +4545,7 @@ GameObject:
   - component: {fileID: 6984873678244238420}
   - component: {fileID: 8563302576694238377}
   - component: {fileID: 2771254339983675981}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: sleeve_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4657,7 +4657,7 @@ GameObject:
   - component: {fileID: 3229925887694177680}
   - component: {fileID: 8032244039494396108}
   - component: {fileID: 516777090736981622}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_right_extra_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4766,7 +4766,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6359289015254010701}
   - component: {fileID: 4616047298482750996}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: flower
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4811,7 +4811,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6209413443889263441}
   - component: {fileID: 4470485212078889586}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_back_left_in
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4856,7 +4856,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7017103394050495948}
   - component: {fileID: 313783324754117813}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_hair_mid_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4904,7 +4904,7 @@ GameObject:
   - component: {fileID: 1713398353756645549}
   - component: {fileID: 1317476695352689570}
   - component: {fileID: 6090784995651483795}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_left_in2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5013,7 +5013,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8853575583079994310}
   - component: {fileID: 2222750404833811429}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_hair_skin_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5061,7 +5061,7 @@ GameObject:
   - component: {fileID: 5416318936524342873}
   - component: {fileID: 4406041796204847231}
   - component: {fileID: 9110760830335426222}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_left_11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5173,7 +5173,7 @@ GameObject:
   - component: {fileID: 7848618611633189267}
   - component: {fileID: 7406400668450945024}
   - component: {fileID: 8668197627941953442}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_left_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5285,7 +5285,7 @@ GameObject:
   - component: {fileID: 8334892116432344990}
   - component: {fileID: 6169503853540170943}
   - component: {fileID: 1641753303721743118}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_right_fluff
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5397,7 +5397,7 @@ GameObject:
   - component: {fileID: 6682841035859557952}
   - component: {fileID: 3412424282904322097}
   - component: {fileID: 1781943582272810134}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: leg_left_bottom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5509,7 +5509,7 @@ GameObject:
   - component: {fileID: 587648194238522216}
   - component: {fileID: 2956733941881470976}
   - component: {fileID: 8667933572466091050}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_left3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5618,7 +5618,7 @@ GameObject:
   m_Component:
   - component: {fileID: 320131533427129879}
   - component: {fileID: 614281889863528160}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_hair_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5663,7 +5663,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8748199393534178071}
   - component: {fileID: 1221800190208985812}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_hair_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5711,7 +5711,7 @@ GameObject:
   - component: {fileID: 1819989331550202175}
   - component: {fileID: 3621635528462129157}
   - component: {fileID: 4398318096258544782}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: cat_eye_left_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5820,7 +5820,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5353447708617654095}
   - component: {fileID: 5198705656128108802}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_flower_string_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5865,7 +5865,7 @@ GameObject:
   m_Component:
   - component: {fileID: 524805321931822965}
   - component: {fileID: 2254352053342855117}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamEarLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5910,7 +5910,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1106475103909201507}
   - component: {fileID: 8757795631032025938}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_10_tail_mofu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5955,7 +5955,7 @@ GameObject:
   m_Component:
   - component: {fileID: 398265325841501566}
   - component: {fileID: 6439870969886881819}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamRightLeg1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6003,7 +6003,7 @@ GameObject:
   - component: {fileID: 7949164767200588873}
   - component: {fileID: 6023078115612951059}
   - component: {fileID: 676793576857477557}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: flower_string_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6115,7 +6115,7 @@ GameObject:
   - component: {fileID: 1950434944169154907}
   - component: {fileID: 3410859170560683679}
   - component: {fileID: 690778122146979746}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: flower_string_12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6227,7 +6227,7 @@ GameObject:
   - component: {fileID: 1070765535511343098}
   - component: {fileID: 3271667744388538801}
   - component: {fileID: 5886039196072952070}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_left_2_shade2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6336,7 +6336,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5368254452928982329}
   - component: {fileID: 7302878353559508092}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_hair_mid
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6380,7 +6380,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9003361264504759062}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Parts
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6499,7 +6499,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7957844608034642338}
   - component: {fileID: 464417798000164581}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_hair_side_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6547,7 +6547,7 @@ GameObject:
   - component: {fileID: 5182090284637599551}
   - component: {fileID: 2957834758452815221}
   - component: {fileID: 3837416367662243330}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_right_shade6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6656,7 +6656,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5515727390150973864}
   - component: {fileID: 5202966933754885209}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6704,7 +6704,7 @@ GameObject:
   - component: {fileID: 4614214355949763447}
   - component: {fileID: 5445115527653342779}
   - component: {fileID: 1580344580032146892}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_left2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6813,7 +6813,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1305677167080950479}
   - component: {fileID: 8189344343391558387}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamSkinFang
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6861,7 +6861,7 @@ GameObject:
   - component: {fileID: 3270204235216200491}
   - component: {fileID: 8524632920370554567}
   - component: {fileID: 9141584569553131824}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: tail_mofu12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6970,7 +6970,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4541983043893711738}
   - component: {fileID: 3434612694664475019}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_back_left_in
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7018,7 +7018,7 @@ GameObject:
   - component: {fileID: 1558443138989759007}
   - component: {fileID: 372840271248352411}
   - component: {fileID: 5015140134023479343}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: flower_top
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7127,7 +7127,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4670213178214099656}
   - component: {fileID: 8515948710754203179}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamMouthForm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7175,7 +7175,7 @@ GameObject:
   - component: {fileID: 3661634088314026640}
   - component: {fileID: 7442178569922474280}
   - component: {fileID: 2936629367968366827}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_right_shade2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7284,7 +7284,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8306373353800294279}
   - component: {fileID: 2607504522918611376}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7329,7 +7329,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5504033051098241094}
   - component: {fileID: 8647037222722282277}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamCheek
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7374,7 +7374,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6539334610935095185}
   - component: {fileID: 7304035785956879270}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_hair_mid_ex
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7419,7 +7419,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2577208275405570827}
   - component: {fileID: 2112329847690616209}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_hair_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7467,7 +7467,7 @@ GameObject:
   - component: {fileID: 8591969724837961219}
   - component: {fileID: 2103330407424751439}
   - component: {fileID: 184199545810579030}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_shade_9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7579,7 +7579,7 @@ GameObject:
   - component: {fileID: 7093486405401888572}
   - component: {fileID: 1139688311010058204}
   - component: {fileID: 8030872875635539361}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_left_shade5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7691,7 +7691,7 @@ GameObject:
   - component: {fileID: 4503865546002687123}
   - component: {fileID: 6894194001527714391}
   - component: {fileID: 6955535408039812837}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_back_shine_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7800,7 +7800,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6372636267232125271}
   - component: {fileID: 7944311715761097900}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_hair_mid_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7848,7 +7848,7 @@ GameObject:
   - component: {fileID: 4510750383660258175}
   - component: {fileID: 2273177106474628697}
   - component: {fileID: 2569363966697604299}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: tail_mofu16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7957,7 +7957,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1235488642646024490}
   - component: {fileID: 5393945037900201}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid_right_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8002,7 +8002,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7404254810031420933}
   - component: {fileID: 4111542673323411939}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_back_left_in
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8047,7 +8047,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2863461183138628776}
   - component: {fileID: 7602250999210936991}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_hair_side_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8092,7 +8092,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1289236673578449677}
   - component: {fileID: 3458731909292196636}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_back_right_out
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8137,7 +8137,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1259610525918941155}
   - component: {fileID: 4377540898250778212}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: head_all
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8182,7 +8182,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5748151443091180862}
   - component: {fileID: 8952344675429196615}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_6_hair_side_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8227,7 +8227,7 @@ GameObject:
   m_Component:
   - component: {fileID: 817232649076743801}
   - component: {fileID: 8866818044109965764}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8272,7 +8272,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3480778032063235724}
   - component: {fileID: 3156966678200513298}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_hair_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8317,7 +8317,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1037713747037189696}
   - component: {fileID: 7255879456841964500}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: leg_overlays
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8365,7 +8365,7 @@ GameObject:
   - component: {fileID: 5760902204436134744}
   - component: {fileID: 5686151479314211827}
   - component: {fileID: 1048825927204746221}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_white_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8474,7 +8474,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2150639975134423051}
   - component: {fileID: 1259378336977905847}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_hair_mid_ex
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8522,7 +8522,7 @@ GameObject:
   - component: {fileID: 5311939699733105256}
   - component: {fileID: 7059223798784658856}
   - component: {fileID: 3684824035736023977}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8634,7 +8634,7 @@ GameObject:
   - component: {fileID: 3141230408707423837}
   - component: {fileID: 4961941390837556403}
   - component: {fileID: 6417108111461491577}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: sleeve_top_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8743,7 +8743,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3069222491123770368}
   - component: {fileID: 5701519030858704063}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_back_left_out
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8788,7 +8788,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6546129438817273892}
   - component: {fileID: 353784017371180785}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamCatEye
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8833,7 +8833,7 @@ GameObject:
   m_Component:
   - component: {fileID: 195505209757782377}
   - component: {fileID: 7765055912610588139}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_ear_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8878,7 +8878,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1238814748169319493}
   - component: {fileID: 4592041511107877029}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part27
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8923,7 +8923,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5802391274716024592}
   - component: {fileID: 3696231963057036258}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_tail_mofu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8968,7 +8968,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2645796129567020390}
   - component: {fileID: 6009047378865774584}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_back_right_out
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9013,7 +9013,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1819124723447540658}
   - component: {fileID: 2093333151810773954}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_hair_skin_shade_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9058,7 +9058,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3673079248304301384}
   - component: {fileID: 5098552477935555894}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9103,7 +9103,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3670610451151159754}
   - component: {fileID: 8009591445725913396}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_back_right_out
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9148,7 +9148,7 @@ GameObject:
   m_Component:
   - component: {fileID: 837068626809083261}
   - component: {fileID: 8924553739673358482}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_hair_side_left_2_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9193,7 +9193,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6366972561052540812}
   - component: {fileID: 1112379447939347893}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part26
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9238,7 +9238,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4280202092889538941}
   - component: {fileID: 8618103040547186609}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_17_tail_mofu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9283,7 +9283,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3799273034477965408}
   - component: {fileID: 13047550663540370}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamMouthOpenY
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9328,7 +9328,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8718861256133390627}
   - component: {fileID: 5241762520677004147}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_back_left_in
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9376,7 +9376,7 @@ GameObject:
   - component: {fileID: 5545300370866323134}
   - component: {fileID: 5327225286655320337}
   - component: {fileID: 821096320017064156}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9485,7 +9485,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2171413229347275542}
   - component: {fileID: 2017109213264094939}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_11_tail_mofu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9533,7 +9533,7 @@ GameObject:
   - component: {fileID: 16154326982236584}
   - component: {fileID: 8799733420921934100}
   - component: {fileID: 3134243672289402653}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9645,7 +9645,7 @@ GameObject:
   - component: {fileID: 8077104019085987119}
   - component: {fileID: 5424335416205498975}
   - component: {fileID: 1494922277341989161}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_right8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9757,7 +9757,7 @@ GameObject:
   - component: {fileID: 1177351577032394279}
   - component: {fileID: 271889292506370263}
   - component: {fileID: 6682183456625862141}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: tail_mofu15
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9866,7 +9866,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9020322558394725729}
   - component: {fileID: 8205163648553449849}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_a2_right_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9911,7 +9911,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7085791319824930182}
   - component: {fileID: 8648962181744876864}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamAngleY
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9956,7 +9956,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1796461228391907153}
   - component: {fileID: 8906751951381869241}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_hair_skin_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10001,7 +10001,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6802552377657617850}
   - component: {fileID: 6410193964646990738}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamSweatVisible
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10046,7 +10046,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8520863015132879482}
   - component: {fileID: 6274001226644287948}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_back_right_in
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10091,7 +10091,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1157029009007138205}
   - component: {fileID: 1236869136536157460}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_7_hair_side_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10139,7 +10139,7 @@ GameObject:
   - component: {fileID: 4664152167412563873}
   - component: {fileID: 3276656613350103855}
   - component: {fileID: 4804878629788071723}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: cat_mouth
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10251,7 +10251,7 @@ GameObject:
   - component: {fileID: 963562485974315254}
   - component: {fileID: 2795989427965700501}
   - component: {fileID: 6817164312140187255}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: cat_eye_right_top
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10363,7 +10363,7 @@ GameObject:
   - component: {fileID: 8718340881698316103}
   - component: {fileID: 6432008725567520978}
   - component: {fileID: 1866731652450585616}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_a2_right2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10475,7 +10475,7 @@ GameObject:
   - component: {fileID: 8533154670064468899}
   - component: {fileID: 4178213736628180824}
   - component: {fileID: 3996260946094766846}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: sleeve_overlay
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10587,7 +10587,7 @@ GameObject:
   - component: {fileID: 2407776981703558940}
   - component: {fileID: 327792815566821932}
   - component: {fileID: 5435897912460950348}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: tail_mofu5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10699,7 +10699,7 @@ GameObject:
   - component: {fileID: 8577286941021287086}
   - component: {fileID: 6798688766688647286}
   - component: {fileID: 4537645393618640834}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: iris_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10808,7 +10808,7 @@ GameObject:
   m_Component:
   - component: {fileID: 915776912834914624}
   - component: {fileID: 5336224674301322189}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_back_left_out
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10853,7 +10853,7 @@ GameObject:
   m_Component:
   - component: {fileID: 32878773182805727}
   - component: {fileID: 5735144950341018718}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: flower_string_1_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10898,7 +10898,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1351317592961332989}
   - component: {fileID: 3886606159791973262}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_ear_left_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10943,7 +10943,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6256541772966602452}
   - component: {fileID: 905843865983820289}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10991,7 +10991,7 @@ GameObject:
   - component: {fileID: 9044050722115963782}
   - component: {fileID: 8758981626507681076}
   - component: {fileID: 3467904871494455010}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: flower_string_15
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11100,7 +11100,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3358024501370293543}
   - component: {fileID: 8628979820655511192}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: sleeves_bottom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11145,7 +11145,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8351846254068823007}
   - component: {fileID: 2551793182552638331}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_hair_mid
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11193,7 +11193,7 @@ GameObject:
   - component: {fileID: 8588987587612892272}
   - component: {fileID: 1150696695777371306}
   - component: {fileID: 3668110464065659256}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: sleeve_top_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11305,7 +11305,7 @@ GameObject:
   - component: {fileID: 4538476261048209503}
   - component: {fileID: 7809138499974186014}
   - component: {fileID: 3824529815910747087}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_right_shade4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11417,7 +11417,7 @@ GameObject:
   - component: {fileID: 3113543957134301459}
   - component: {fileID: 7757511148258942914}
   - component: {fileID: 5337910722102430869}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_right7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11526,7 +11526,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5947389225688471893}
   - component: {fileID: 1313230065881310123}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_shade_5_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11574,7 +11574,7 @@ GameObject:
   - component: {fileID: 8733483749406558414}
   - component: {fileID: 2435419734944667404}
   - component: {fileID: 1262664535756544114}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid_left6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11683,7 +11683,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6569598959140947344}
   - component: {fileID: 3695738435192532842}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_ear_left_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11731,7 +11731,7 @@ GameObject:
   - component: {fileID: 5511243205944105016}
   - component: {fileID: 2261631065464943671}
   - component: {fileID: 4331345357336956036}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_right3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11840,7 +11840,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9098212966606968465}
   - component: {fileID: 4122544031461313065}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11885,7 +11885,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5679166585686519494}
   - component: {fileID: 5131093709492727796}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11930,7 +11930,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8966463580661433147}
   - component: {fileID: 2149089044681438528}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_hair_side_left_2_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11978,7 +11978,7 @@ GameObject:
   - component: {fileID: 1019924127781595796}
   - component: {fileID: 7143808639283500950}
   - component: {fileID: 3076548146284201717}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_right5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12090,7 +12090,7 @@ GameObject:
   - component: {fileID: 5178725441389550772}
   - component: {fileID: 8270764575963754924}
   - component: {fileID: 604482754007193752}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: cat_eye_left_top
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12202,7 +12202,7 @@ GameObject:
   - component: {fileID: 8721505560047882081}
   - component: {fileID: 4180603044364709895}
   - component: {fileID: 2262705995399786263}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_left_shade3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12314,7 +12314,7 @@ GameObject:
   - component: {fileID: 1407071144190933851}
   - component: {fileID: 1669880431116005302}
   - component: {fileID: 4537253324833575546}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_fluff_left_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12423,7 +12423,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8594493850588178752}
   - component: {fileID: 5997461510639327280}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_hair_skin_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12468,7 +12468,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9142383377442164977}
   - component: {fileID: 7699066737111542483}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_4_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12516,7 +12516,7 @@ GameObject:
   - component: {fileID: 1734506880057669392}
   - component: {fileID: 7184719577271724417}
   - component: {fileID: 3399783609524154796}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid_ex2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12628,7 +12628,7 @@ GameObject:
   - component: {fileID: 7161761577236096802}
   - component: {fileID: 442925776280650737}
   - component: {fileID: 7750250200977607386}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_a2_left2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12737,7 +12737,7 @@ GameObject:
   m_Component:
   - component: {fileID: 119690243051744780}
   - component: {fileID: 1562721212179314597}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamPhysClothes1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12785,7 +12785,7 @@ GameObject:
   - component: {fileID: 6198161533567924770}
   - component: {fileID: 6742389334732477236}
   - component: {fileID: 7400556267918096169}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_right_shade5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12897,7 +12897,7 @@ GameObject:
   - component: {fileID: 1861086859934639919}
   - component: {fileID: 5039609876224001615}
   - component: {fileID: 4067216382370139070}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_26
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13006,7 +13006,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4338546258895792473}
   - component: {fileID: 5827244600190654608}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_hair_a2_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13051,7 +13051,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3048120974197117834}
   - component: {fileID: 3911345657059491745}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_back_left_out
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13096,7 +13096,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7145361254778993090}
   - component: {fileID: 5601570959981357085}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_top
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13144,7 +13144,7 @@ GameObject:
   - component: {fileID: 3702560411468932150}
   - component: {fileID: 1451863355158237107}
   - component: {fileID: 6396731363417651314}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_right_out6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13256,7 +13256,7 @@ GameObject:
   - component: {fileID: 6848424790318794112}
   - component: {fileID: 4891658764291514397}
   - component: {fileID: 3239011808546314831}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_left_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13365,7 +13365,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9112310646531711444}
   - component: {fileID: 7092276102472011167}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_15_tail_mofu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13413,7 +13413,7 @@ GameObject:
   - component: {fileID: 8033327722951340623}
   - component: {fileID: 3760931268011554516}
   - component: {fileID: 5901795816924752383}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13522,7 +13522,7 @@ GameObject:
   m_Component:
   - component: {fileID: 163526616803438992}
   - component: {fileID: 3305556710746430982}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamBodyAngleX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13570,7 +13570,7 @@ GameObject:
   - component: {fileID: 8295681815243954896}
   - component: {fileID: 8410158428130973585}
   - component: {fileID: 9162060962837804745}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_white_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13679,7 +13679,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2841544153994944500}
   - component: {fileID: 7219348646222662451}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13727,7 +13727,7 @@ GameObject:
   - component: {fileID: 6312437139819490349}
   - component: {fileID: 5397866281323526166}
   - component: {fileID: 2776028298526978814}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: tail_mofu18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13839,7 +13839,7 @@ GameObject:
   - component: {fileID: 7950380828912365154}
   - component: {fileID: 1952573210573537365}
   - component: {fileID: 2582732095769807246}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: skirt_left_top
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13951,7 +13951,7 @@ GameObject:
   - component: {fileID: 5447552060500551698}
   - component: {fileID: 6451661733550091149}
   - component: {fileID: 619449052931671320}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid_ex4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14063,7 +14063,7 @@ GameObject:
   - component: {fileID: 3353157996027384777}
   - component: {fileID: 6541037380895763108}
   - component: {fileID: 7407497452890064868}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid_left3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14175,7 +14175,7 @@ GameObject:
   - component: {fileID: 5468657518416468292}
   - component: {fileID: 3182060957544166728}
   - component: {fileID: 836699878340855701}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_right_side2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14284,7 +14284,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6505907478597203547}
   - component: {fileID: 6739975773017843347}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_hair_mid
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14332,7 +14332,7 @@ GameObject:
   - component: {fileID: 5079642929764013681}
   - component: {fileID: 196101829541251150}
   - component: {fileID: 284349158518944540}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: mouth_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14444,7 +14444,7 @@ GameObject:
   - component: {fileID: 3538938652126613823}
   - component: {fileID: 8856596161833231279}
   - component: {fileID: 2759786329189660436}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14556,7 +14556,7 @@ GameObject:
   - component: {fileID: 1768772249209072766}
   - component: {fileID: 5682723591081935319}
   - component: {fileID: 3197793603766849209}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid_ex5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14665,7 +14665,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3249732330111390351}
   - component: {fileID: 3189265924266527699}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_hair_a2_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14713,7 +14713,7 @@ GameObject:
   - component: {fileID: 2399159525850934131}
   - component: {fileID: 4812275334757522619}
   - component: {fileID: 6636461893684987757}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_a2_right6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14822,7 +14822,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7141970101156905501}
   - component: {fileID: 5784371219833221353}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_ear_left_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14870,7 +14870,7 @@ GameObject:
   - component: {fileID: 4680495712796772896}
   - component: {fileID: 3060819265592103984}
   - component: {fileID: 6083616297684329709}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_right_extra_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14982,7 +14982,7 @@ GameObject:
   - component: {fileID: 7938558421500067080}
   - component: {fileID: 3719776027904274659}
   - component: {fileID: 7370100840620105815}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: tail_mofu6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15094,7 +15094,7 @@ GameObject:
   - component: {fileID: 5444226853780655344}
   - component: {fileID: 5424006902284666569}
   - component: {fileID: 1757072471028184426}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15210,7 +15210,7 @@ GameObject:
   - component: {fileID: 1837355319214079906}
   - component: {fileID: 6126688307927667199}
   - component: {fileID: 199120388}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: senko_normal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15284,7 +15284,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Opacity: 1
-  _lastOpacity: 1
+  _lastOpacity: 0
   _sortingLayerId: 0
   _sortingMode: 0
   _sortingOrder: 0
@@ -15304,7 +15304,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 967223d908bf07b4f90945995bdca68f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _maskTexture: {fileID: 11400000, guid: 16bf142754640ab4487bb625c30931fd, type: 2}
+  _maskTexture: {fileID: 0}
 --- !u!114 &1837355319214079906
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17121,8 +17121,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c6de9fd2ed0a2948a17e8b4ac09e8f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  model: {fileID: 2024599888935097616}
-  newTexture: {fileID: 2800000, guid: 1cdc68149ac567e4daf70a9c76e3462b, type: 3}
+  model: {fileID: 0}
+  newTextures: []
 --- !u!1 &3232946944062092219
 GameObject:
   m_ObjectHideFlags: 0
@@ -17133,7 +17133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2069983316195351836}
   - component: {fileID: 2104148376982838138}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_hair_a2_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17178,7 +17178,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3498105532775225963}
   - component: {fileID: 8321154961512384881}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_hair_side_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17223,7 +17223,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7204261223093259332}
   - component: {fileID: 5359788760259341285}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_flower_string_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17268,7 +17268,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7983741976137367464}
   - component: {fileID: 5337793635676447155}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_hair_skin_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17313,7 +17313,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5565023643438449156}
   - component: {fileID: 5702965971206956240}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamPosX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17358,7 +17358,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8190405797892965563}
   - component: {fileID: 7078025045867444210}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_back_right_out
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17406,7 +17406,7 @@ GameObject:
   - component: {fileID: 904092380865601281}
   - component: {fileID: 7470835679110522172}
   - component: {fileID: 2248146943573477579}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_right_out4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17518,7 +17518,7 @@ GameObject:
   - component: {fileID: 6948952807793187742}
   - component: {fileID: 7010249019080657869}
   - component: {fileID: 6105052154217470516}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_shine_right_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17630,7 +17630,7 @@ GameObject:
   - component: {fileID: 1193149361199602340}
   - component: {fileID: 2773835493611685381}
   - component: {fileID: 4118920092526422523}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: sleeve_right_under
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17742,7 +17742,7 @@ GameObject:
   - component: {fileID: 361039002311018603}
   - component: {fileID: 7636524260480422609}
   - component: {fileID: 5250071402918217087}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_right_shade2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17851,7 +17851,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7594803344425341306}
   - component: {fileID: 2325407371991813022}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamEyeLSmile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17899,7 +17899,7 @@ GameObject:
   - component: {fileID: 4079385317950706797}
   - component: {fileID: 6220277162045217736}
   - component: {fileID: 574171377554237308}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18011,7 +18011,7 @@ GameObject:
   - component: {fileID: 2958804660154135439}
   - component: {fileID: 3460105749403492873}
   - component: {fileID: 7632108704556443991}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_right_dots2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18123,7 +18123,7 @@ GameObject:
   - component: {fileID: 6228067248825546255}
   - component: {fileID: 313014493604051772}
   - component: {fileID: 2795783563187820878}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_left_top
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18232,7 +18232,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7903060397953557224}
   - component: {fileID: 5479722801420713927}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_hair_a2_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18280,7 +18280,7 @@ GameObject:
   - component: {fileID: 1890039635806085887}
   - component: {fileID: 4725907318558526173}
   - component: {fileID: 1785404384332818606}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: skirt_overlay
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18392,7 +18392,7 @@ GameObject:
   - component: {fileID: 1360002454318198229}
   - component: {fileID: 4193747198870542880}
   - component: {fileID: 5575186869750608784}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_a2_left5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18501,7 +18501,7 @@ GameObject:
   m_Component:
   - component: {fileID: 412277018690755219}
   - component: {fileID: 3501985884835483992}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_hair_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18549,7 +18549,7 @@ GameObject:
   - component: {fileID: 2204168328788887282}
   - component: {fileID: 839086206286735564}
   - component: {fileID: 6170949110687090325}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid_ex6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18658,7 +18658,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4865616253226346257}
   - component: {fileID: 5620523753326912644}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: mouth
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18703,7 +18703,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4046298149113817456}
   - component: {fileID: 8201775220409179825}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamBodyAngleZ
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18751,7 +18751,7 @@ GameObject:
   - component: {fileID: 8610781156663628307}
   - component: {fileID: 3581695766966906804}
   - component: {fileID: 4719293068869619388}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_right_in6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18860,7 +18860,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1615242754063020859}
   - component: {fileID: 1102949393692550474}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: strings
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18905,7 +18905,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9059193557772680142}
   - component: {fileID: 5061249107111910164}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_hair_a2_left_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18950,7 +18950,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6571875246503144903}
   - component: {fileID: 3483640865541270561}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18995,7 +18995,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8591205417496308999}
   - component: {fileID: 1170797887642811600}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_back_right_in
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19043,7 +19043,7 @@ GameObject:
   - component: {fileID: 6863374123769009917}
   - component: {fileID: 9013898812295114009}
   - component: {fileID: 8062888436223294127}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: tail_mofu11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19155,7 +19155,7 @@ GameObject:
   - component: {fileID: 6547398460035661879}
   - component: {fileID: 5046042391499809130}
   - component: {fileID: 6396941754029043637}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_left_extra_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19267,7 +19267,7 @@ GameObject:
   - component: {fileID: 7090773128694268580}
   - component: {fileID: 1876919417337563267}
   - component: {fileID: 6893338803200362093}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_left_top_fold
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19379,7 +19379,7 @@ GameObject:
   - component: {fileID: 5349122222669460022}
   - component: {fileID: 8549805317148300618}
   - component: {fileID: 1027569508152944441}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_right_shade3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19488,7 +19488,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1667149763575369455}
   - component: {fileID: 5932133372341195568}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: tail_mofu_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19536,7 +19536,7 @@ GameObject:
   - component: {fileID: 4192546323130079590}
   - component: {fileID: 8040531466284770150}
   - component: {fileID: 5798368982801924191}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: mouth_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19645,7 +19645,7 @@ GameObject:
   m_Component:
   - component: {fileID: 621077078157966932}
   - component: {fileID: 2908730482541055017}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: legs_bottom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19693,7 +19693,7 @@ GameObject:
   - component: {fileID: 2356529020243772680}
   - component: {fileID: 8116006277047572838}
   - component: {fileID: 7089693671303594069}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: mouth_top
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19802,7 +19802,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8571446430815369604}
   - component: {fileID: 4787781900762528367}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19850,7 +19850,7 @@ GameObject:
   - component: {fileID: 3882170988195969793}
   - component: {fileID: 4802811058269533846}
   - component: {fileID: 4594390415723630135}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_left_in3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19959,7 +19959,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3636650029108040748}
   - component: {fileID: 9195115519725057208}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamBrowLY
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20007,7 +20007,7 @@ GameObject:
   - component: {fileID: 4288394567861068828}
   - component: {fileID: 9093242175259921608}
   - component: {fileID: 3518917271823750303}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_shine_right_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20116,7 +20116,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5460846337239999690}
   - component: {fileID: 8739683947368334002}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamBrowLForm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20164,7 +20164,7 @@ GameObject:
   - component: {fileID: 6193262938915544251}
   - component: {fileID: 8651952271066407734}
   - component: {fileID: 6963278541374493339}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_right4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20276,7 +20276,7 @@ GameObject:
   - component: {fileID: 1589785717242989494}
   - component: {fileID: 4844503546309914528}
   - component: {fileID: 5190183785837728170}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_left_shade6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20385,7 +20385,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5504364190722798199}
   - component: {fileID: 7708641103201646166}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part23
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20433,7 +20433,7 @@ GameObject:
   - component: {fileID: 2685750388989170976}
   - component: {fileID: 2641385069040122353}
   - component: {fileID: 5438292675445593658}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20545,7 +20545,7 @@ GameObject:
   - component: {fileID: 7542065857866690478}
   - component: {fileID: 7621388263826432492}
   - component: {fileID: 4523619837411945391}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_back_shine_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20657,7 +20657,7 @@ GameObject:
   - component: {fileID: 9215929185165125835}
   - component: {fileID: 6478033488170870928}
   - component: {fileID: 8809675059959792953}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_right_shade4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20766,7 +20766,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1469840963551422284}
   - component: {fileID: 5028325963676388005}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_ear_left_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20814,7 +20814,7 @@ GameObject:
   - component: {fileID: 2168980379543128440}
   - component: {fileID: 6938003046099568456}
   - component: {fileID: 3836907761706749585}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: cat_eye_left_bottom2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20926,7 +20926,7 @@ GameObject:
   - component: {fileID: 4608759257776232627}
   - component: {fileID: 3302134100709664027}
   - component: {fileID: 736154447008925540}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: tail_mofu3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21038,7 +21038,7 @@ GameObject:
   - component: {fileID: 8621454658917710888}
   - component: {fileID: 1527244124051315780}
   - component: {fileID: 3523338119543201554}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: blush
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21150,7 +21150,7 @@ GameObject:
   - component: {fileID: 7568042665652235180}
   - component: {fileID: 275918047072751059}
   - component: {fileID: 3388692658082786947}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21259,7 +21259,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1913558554205308541}
   - component: {fileID: 6225878211889675863}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_hair_a2_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21307,7 +21307,7 @@ GameObject:
   - component: {fileID: 8331108604920005805}
   - component: {fileID: 9115891412801561410}
   - component: {fileID: 2042097218902283218}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_fluff_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21419,7 +21419,7 @@ GameObject:
   - component: {fileID: 1671950963319273115}
   - component: {fileID: 2442431015393390550}
   - component: {fileID: 7846469461959098830}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: tail_mofu2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21531,7 +21531,7 @@ GameObject:
   - component: {fileID: 435517856351866947}
   - component: {fileID: 4072643597311819147}
   - component: {fileID: 9147988150182533652}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: brow_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21643,7 +21643,7 @@ GameObject:
   - component: {fileID: 5921618957338606209}
   - component: {fileID: 5860668690492090270}
   - component: {fileID: 5697358881873676326}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_left4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21755,7 +21755,7 @@ GameObject:
   - component: {fileID: 1328166201989335473}
   - component: {fileID: 7993824457904728926}
   - component: {fileID: 3203603489968223448}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: brow_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21867,7 +21867,7 @@ GameObject:
   - component: {fileID: 6761885915241049330}
   - component: {fileID: 8710341100564128215}
   - component: {fileID: 465544829074952654}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_left_extra_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21976,7 +21976,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7041095196553212898}
   - component: {fileID: 4935313737937590713}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_7_tail_mofu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22024,7 +22024,7 @@ GameObject:
   - component: {fileID: 8120347270473104704}
   - component: {fileID: 271073121042715539}
   - component: {fileID: 4973398350330793006}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_white_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22133,7 +22133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1668108186570995722}
   - component: {fileID: 5833897602230847330}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamRightLeg2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22181,7 +22181,7 @@ GameObject:
   - component: {fileID: 4396368651369717078}
   - component: {fileID: 830495938042307545}
   - component: {fileID: 7747052361729821592}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid_left4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22293,7 +22293,7 @@ GameObject:
   - component: {fileID: 8832128500750679592}
   - component: {fileID: 556267151461019314}
   - component: {fileID: 127595433613773040}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_a2_right5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22405,7 +22405,7 @@ GameObject:
   - component: {fileID: 8005603831080843956}
   - component: {fileID: 1041344390869578087}
   - component: {fileID: 7631417502586514330}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: sleeve_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22514,7 +22514,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3509499721314051613}
   - component: {fileID: 1305243104304257908}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_hair_skin_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22562,7 +22562,7 @@ GameObject:
   - component: {fileID: 5444628878887733412}
   - component: {fileID: 7118330584971609013}
   - component: {fileID: 7322285161982899568}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_15
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22671,7 +22671,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5998046179825748211}
   - component: {fileID: 8331625372771829526}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22716,7 +22716,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8062083818934555994}
   - component: {fileID: 8171094242386729168}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22761,7 +22761,7 @@ GameObject:
   m_Component:
   - component: {fileID: 201039427918343350}
   - component: {fileID: 4693367794348400353}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_left_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22806,7 +22806,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5642800170291250891}
   - component: {fileID: 470000821890566020}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_hair_skin_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22851,7 +22851,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8913844110328464865}
   - component: {fileID: 4450111997739478894}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_16_tail_mofu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22899,7 +22899,7 @@ GameObject:
   - component: {fileID: 2356609907882009467}
   - component: {fileID: 2121566829902920662}
   - component: {fileID: 957766473341744033}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: cat_eye_iris_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23008,7 +23008,7 @@ GameObject:
   m_Component:
   - component: {fileID: 268772877283226333}
   - component: {fileID: 831461483586292159}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamBodyAngleY
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23053,7 +23053,7 @@ GameObject:
   m_Component:
   - component: {fileID: 555570556361805137}
   - component: {fileID: 3155786576460024958}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ears
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23098,7 +23098,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3464636948152406957}
   - component: {fileID: 3561091309281879869}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_hair_a2_left_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23143,7 +23143,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4245258885210774216}
   - component: {fileID: 1579034438144999693}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_hair_side_left_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23191,7 +23191,7 @@ GameObject:
   - component: {fileID: 4641480134427431861}
   - component: {fileID: 5580302805347774577}
   - component: {fileID: 9040249459390973724}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_a2_left4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23303,7 +23303,7 @@ GameObject:
   - component: {fileID: 3025876079854477747}
   - component: {fileID: 3206214854240813512}
   - component: {fileID: 7867684173675551613}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: neck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23412,7 +23412,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3488770137097973247}
   - component: {fileID: 1620178518999343156}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_back_left_out
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23457,7 +23457,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4452585330881512056}
   - component: {fileID: 7897773198096798594}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_hair_mid_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23505,7 +23505,7 @@ GameObject:
   - component: {fileID: 865911850275998714}
   - component: {fileID: 2022105074062574536}
   - component: {fileID: 4618676211763206441}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_left_out3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23614,7 +23614,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8444194332927501617}
   - component: {fileID: 1451663350281175593}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_hair_side_left_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23659,7 +23659,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7055514998400282554}
   - component: {fileID: 8197690213208827694}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_right_in_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23704,7 +23704,7 @@ GameObject:
   m_Component:
   - component: {fileID: 866068219304825831}
   - component: {fileID: 9031124527222763462}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_hair_skin_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23752,7 +23752,7 @@ GameObject:
   - component: {fileID: 8501649691655094735}
   - component: {fileID: 5596808652380879211}
   - component: {fileID: 6540654962190042790}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23861,7 +23861,7 @@ GameObject:
   m_Component:
   - component: {fileID: 162363280180963327}
   - component: {fileID: 1271886016453745289}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_hair_a2_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23909,7 +23909,7 @@ GameObject:
   - component: {fileID: 1268985774391203663}
   - component: {fileID: 3406316427935751264}
   - component: {fileID: 1504718665155616411}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid_right3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24018,7 +24018,7 @@ GameObject:
   m_Component:
   - component: {fileID: 740812223253596344}
   - component: {fileID: 4540898079178614410}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_hair_a2_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24066,7 +24066,7 @@ GameObject:
   - component: {fileID: 4530955834163140129}
   - component: {fileID: 167084983104700082}
   - component: {fileID: 2203720788428180364}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_shade_8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24175,7 +24175,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1989305163995031570}
   - component: {fileID: 663591517219315790}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamBrowRForm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24220,7 +24220,7 @@ GameObject:
   m_Component:
   - component: {fileID: 335501264721671525}
   - component: {fileID: 2077920517073144937}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_left_2_shade_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24265,7 +24265,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2086060996742441019}
   - component: {fileID: 427510215762043677}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_right_out_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24313,7 +24313,7 @@ GameObject:
   - component: {fileID: 1958673946050395154}
   - component: {fileID: 7443148137530625446}
   - component: {fileID: 4828537980790327339}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: tail_mofu13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24422,7 +24422,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5285289468375561855}
   - component: {fileID: 4090841307874925786}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_hair_mid_ex
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24470,7 +24470,7 @@ GameObject:
   - component: {fileID: 2849462735189432563}
   - component: {fileID: 7071227799022561432}
   - component: {fileID: 2555547919541342103}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_right_shade3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24579,7 +24579,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2982973898060935719}
   - component: {fileID: 7067284771606097671}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_flower_string_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24624,7 +24624,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2975889765537915051}
   - component: {fileID: 6600425231879491567}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_hair_skin_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24672,7 +24672,7 @@ GameObject:
   - component: {fileID: 6449583886016179496}
   - component: {fileID: 1469113817581489973}
   - component: {fileID: 7707582998499561277}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: leg_right_top
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24784,7 +24784,7 @@ GameObject:
   - component: {fileID: 8470486251589346929}
   - component: {fileID: 6521485361473917709}
   - component: {fileID: 6211558756310168798}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_left_10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24896,7 +24896,7 @@ GameObject:
   - component: {fileID: 4897954067845704693}
   - component: {fileID: 1720627198967145810}
   - component: {fileID: 3640903060203017068}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_right_side
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25005,7 +25005,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1988468926271203854}
   - component: {fileID: 1356375894650334395}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_hair_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25050,7 +25050,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5117644410720152218}
   - component: {fileID: 7952145194265395189}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_hair_skin_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25094,7 +25094,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 824638912815155644}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Drawables
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25388,7 +25388,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7824074701710368499}
   - component: {fileID: 5919000707757999120}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_ear_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25433,7 +25433,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3362776253801837577}
   - component: {fileID: 3395562712825916144}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_hair_side_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25478,7 +25478,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3892600664010991108}
   - component: {fileID: 8144070989515003808}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_left_2_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25523,7 +25523,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8035161552382651192}
   - component: {fileID: 2328550520372418251}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_hair_side_left_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25571,7 +25571,7 @@ GameObject:
   - component: {fileID: 649693881062799100}
   - component: {fileID: 8563210927468757262}
   - component: {fileID: 6071343466480708373}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_right_out2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25680,7 +25680,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7486134599976422247}
   - component: {fileID: 6398882373607497794}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_left_shade_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25728,7 +25728,7 @@ GameObject:
   - component: {fileID: 1154028987624671404}
   - component: {fileID: 8682810586538345637}
   - component: {fileID: 1867862854178200295}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: tail_mofu14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25840,7 +25840,7 @@ GameObject:
   - component: {fileID: 7746027101769777977}
   - component: {fileID: 2000954392124571105}
   - component: {fileID: 1903937985119468925}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_right_in5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25952,7 +25952,7 @@ GameObject:
   - component: {fileID: 1818020689634136941}
   - component: {fileID: 3151268448463834417}
   - component: {fileID: 6926715842826120014}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: skirt_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26061,7 +26061,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6269346663872753288}
   - component: {fileID: 5253386146692870923}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamLeftLeg2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26109,7 +26109,7 @@ GameObject:
   - component: {fileID: 1743359726893253777}
   - component: {fileID: 3921941847563201805}
   - component: {fileID: 2907592554517595347}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid_left2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26221,7 +26221,7 @@ GameObject:
   - component: {fileID: 557385557295866678}
   - component: {fileID: 1034667913969413409}
   - component: {fileID: 479580070412765305}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26330,7 +26330,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7667784098927402000}
   - component: {fileID: 6430527079112986130}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_ear_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26375,7 +26375,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1945325587764582945}
   - component: {fileID: 2445094603757254833}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: neck_all
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26420,7 +26420,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2193924112894193614}
   - component: {fileID: 984832750033807567}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_tail_mofu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26465,7 +26465,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6689231523189336805}
   - component: {fileID: 6882793905445348910}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: sleeves_top
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26510,7 +26510,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1118874780431149122}
   - component: {fileID: 903769406663850862}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamAngleX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26558,7 +26558,7 @@ GameObject:
   - component: {fileID: 3483509776569160779}
   - component: {fileID: 4316586478967346868}
   - component: {fileID: 5084516329731547967}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid_right2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26667,7 +26667,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5565359254178794934}
   - component: {fileID: 8879220615884997809}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_6_flower_string_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26715,7 +26715,7 @@ GameObject:
   - component: {fileID: 3148415738627530689}
   - component: {fileID: 5957769437584147837}
   - component: {fileID: 4912064434869861703}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_white_left_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26827,7 +26827,7 @@ GameObject:
   - component: {fileID: 9141451025586470423}
   - component: {fileID: 5860172237433428642}
   - component: {fileID: 8051582893010201245}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_right2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26936,7 +26936,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1625336859053176920}
   - component: {fileID: 948018782882149155}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_hair_skin_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26981,7 +26981,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4901674104316664770}
   - component: {fileID: 4482472770633297165}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_hair_side_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27026,7 +27026,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6920115631758880684}
   - component: {fileID: 1928860246488286658}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27074,7 +27074,7 @@ GameObject:
   - component: {fileID: 374936147164412671}
   - component: {fileID: 7871933130390734710}
   - component: {fileID: 2977859150912707337}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_left_out5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27183,7 +27183,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7404940922828077656}
   - component: {fileID: 2577358737184523746}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_hair_side_left_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27228,7 +27228,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4356357492175173415}
   - component: {fileID: 6146666824538050803}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_hair_mid_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27276,7 +27276,7 @@ GameObject:
   - component: {fileID: 2951958729150771187}
   - component: {fileID: 7410754127926509291}
   - component: {fileID: 217030151404414689}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_23
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27385,7 +27385,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6782008917571829059}
   - component: {fileID: 2396930090109445333}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_left_1_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27433,7 +27433,7 @@ GameObject:
   - component: {fileID: 8490581918476368914}
   - component: {fileID: 5368591300826229864}
   - component: {fileID: 4909014998470845531}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_left_out6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27542,7 +27542,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6061314493779960372}
   - component: {fileID: 9024774118768144825}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_hair_skin_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27590,7 +27590,7 @@ GameObject:
   - component: {fileID: 3146534012206812342}
   - component: {fileID: 7982572270429508837}
   - component: {fileID: 4819253853859506446}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: tail_mofu7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27702,7 +27702,7 @@ GameObject:
   - component: {fileID: 8426413946651587046}
   - component: {fileID: 2445336216027683230}
   - component: {fileID: 5885546439187311903}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_left_in4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27811,7 +27811,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5781960718420722399}
   - component: {fileID: 1026934713083217276}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27859,7 +27859,7 @@ GameObject:
   - component: {fileID: 2876695611423614782}
   - component: {fileID: 7992192300063234017}
   - component: {fileID: 3049410239248122263}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_right_bottom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27971,7 +27971,7 @@ GameObject:
   - component: {fileID: 5763810110277136181}
   - component: {fileID: 7858102881902055163}
   - component: {fileID: 4806285969554137851}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_right_in2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28083,7 +28083,7 @@ GameObject:
   - component: {fileID: 5138423473690465458}
   - component: {fileID: 5828395134860492273}
   - component: {fileID: 742209772224541413}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_left_dots
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28195,7 +28195,7 @@ GameObject:
   - component: {fileID: 7701765266190000766}
   - component: {fileID: 4398281344254929417}
   - component: {fileID: 2397846184418274210}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: flower_string_13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28304,7 +28304,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7506191823152416864}
   - component: {fileID: 7963340259551722700}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: cat_eye_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28349,7 +28349,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7598122470692452936}
   - component: {fileID: 1706631333685319618}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_tail_mofu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28397,7 +28397,7 @@ GameObject:
   - component: {fileID: 8342916732084880715}
   - component: {fileID: 5012267215832619457}
   - component: {fileID: 5437345370165002166}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_right5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28506,7 +28506,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1402593239943629414}
   - component: {fileID: 7417374541796244434}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_hair_mid_ex
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28554,7 +28554,7 @@ GameObject:
   - component: {fileID: 2462060988343169959}
   - component: {fileID: 6941479260868941806}
   - component: {fileID: 4787854065165028229}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_shade_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28663,7 +28663,7 @@ GameObject:
   m_Component:
   - component: {fileID: 153768494024555876}
   - component: {fileID: 5806133585476905406}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_hair_mid_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28708,7 +28708,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9010649092519846992}
   - component: {fileID: 408025662164906888}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamShock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28753,7 +28753,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6212071718040020185}
   - component: {fileID: 8086974856671058153}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_hair_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28801,7 +28801,7 @@ GameObject:
   - component: {fileID: 4702575385073386805}
   - component: {fileID: 5726125145070596533}
   - component: {fileID: 9039501208199365314}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_left_bottom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28910,7 +28910,7 @@ GameObject:
   m_Component:
   - component: {fileID: 356161495063802651}
   - component: {fileID: 1021887013645341371}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamEyeLOpen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28955,7 +28955,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3504830831221286516}
   - component: {fileID: 304015574612970377}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_hair_mid_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29000,7 +29000,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5917215443985608364}
   - component: {fileID: 5257768918440873717}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_hair_side_left_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29045,7 +29045,7 @@ GameObject:
   m_Component:
   - component: {fileID: 25726404326559804}
   - component: {fileID: 6450501294730280234}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_hair_side_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29093,7 +29093,7 @@ GameObject:
   - component: {fileID: 7400039892334466583}
   - component: {fileID: 5701846432204705180}
   - component: {fileID: 2625049110683227830}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_left_side2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29205,7 +29205,7 @@ GameObject:
   - component: {fileID: 1131271516129239022}
   - component: {fileID: 4011118135400624201}
   - component: {fileID: 3144042651078332759}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29314,7 +29314,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5268507155880401181}
   - component: {fileID: 4969138383889436132}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_6_flower_string_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29362,7 +29362,7 @@ GameObject:
   - component: {fileID: 1419739756513430472}
   - component: {fileID: 6773793929165158979}
   - component: {fileID: 956823730446314934}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid_right4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29471,7 +29471,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5327451505812334582}
   - component: {fileID: 5762744690285816888}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: cat_eye_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29516,7 +29516,7 @@ GameObject:
   m_Component:
   - component: {fileID: 334022849091562988}
   - component: {fileID: 2662614515308951397}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_hair_side_left_2_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29564,7 +29564,7 @@ GameObject:
   - component: {fileID: 8510821850497699762}
   - component: {fileID: 2182511228729254488}
   - component: {fileID: 4080520627474842269}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid_right5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29673,7 +29673,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1016028352619687198}
   - component: {fileID: 6573524153564952843}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamBreath
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29718,7 +29718,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6199535052426682154}
   - component: {fileID: 4141431757970545910}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part30
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29763,7 +29763,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3452483936322326769}
   - component: {fileID: 7170714666749709632}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamEyeBallY
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29811,7 +29811,7 @@ GameObject:
   - component: {fileID: 4126514647251110956}
   - component: {fileID: 9210226835911535018}
   - component: {fileID: 8971385467739002908}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: cat_eye_white_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29920,7 +29920,7 @@ GameObject:
   m_Component:
   - component: {fileID: 504215981891000002}
   - component: {fileID: 4193087325340814859}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamHairOrnamentZ
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29965,7 +29965,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4753990431319800041}
   - component: {fileID: 7249363891151064780}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_hair_skin_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30013,7 +30013,7 @@ GameObject:
   - component: {fileID: 5141477845251103035}
   - component: {fileID: 572301942348299727}
   - component: {fileID: 1132005481373598320}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_right_top_fold2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30122,7 +30122,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6588255133699815829}
   - component: {fileID: 4996714963422567793}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30170,7 +30170,7 @@ GameObject:
   - component: {fileID: 3143622209082870457}
   - component: {fileID: 4320968845668672787}
   - component: {fileID: 2524648355915853975}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: nose
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30279,7 +30279,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2191819103167435378}
   - component: {fileID: 4947165109124127764}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_hair_skin_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30327,7 +30327,7 @@ GameObject:
   - component: {fileID: 9087294404064366113}
   - component: {fileID: 2537835058229782830}
   - component: {fileID: 155269042585580028}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: flower_string_16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30436,7 +30436,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6281686543704487238}
   - component: {fileID: 4173233932604564501}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_hair_skin_shade_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30481,7 +30481,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7806048374985566586}
   - component: {fileID: 2533252426731818385}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_hair_side_left_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30526,7 +30526,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1088494041092269639}
   - component: {fileID: 8159666591594220537}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamPosY
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30574,7 +30574,7 @@ GameObject:
   - component: {fileID: 4863927889119103860}
   - component: {fileID: 1149275191113466311}
   - component: {fileID: 4151024737149640621}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_left_out4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30683,7 +30683,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2468211058549354577}
   - component: {fileID: 7449387763018794475}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_hair_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30728,7 +30728,7 @@ GameObject:
   m_Component:
   - component: {fileID: 637755731696423052}
   - component: {fileID: 7318364499242330421}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_hair_skin_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30776,7 +30776,7 @@ GameObject:
   - component: {fileID: 1869000985134797180}
   - component: {fileID: 6567035658759751423}
   - component: {fileID: 5361809141590186561}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_shade_10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30884,7 +30884,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5274035535740308752}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Parameters
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31130,7 +31130,7 @@ GameObject:
   - component: {fileID: 7543412549837720927}
   - component: {fileID: 884996876562112160}
   - component: {fileID: 8270576664947859802}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31242,7 +31242,7 @@ GameObject:
   - component: {fileID: 7648073959966620123}
   - component: {fileID: 1038216691720448283}
   - component: {fileID: 7234777179514604981}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_left_top_fold2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31354,7 +31354,7 @@ GameObject:
   - component: {fileID: 945253605248404232}
   - component: {fileID: 6919249091226842208}
   - component: {fileID: 9213973661713755522}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_left_shade4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31463,7 +31463,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1420683328996201963}
   - component: {fileID: 3461392334039867042}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_hair_skin_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31511,7 +31511,7 @@ GameObject:
   - component: {fileID: 2583231605383379847}
   - component: {fileID: 1265382570545207523}
   - component: {fileID: 3943889450810293212}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: fang
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31623,7 +31623,7 @@ GameObject:
   - component: {fileID: 2694584754850438578}
   - component: {fileID: 8903329155237591079}
   - component: {fileID: 7857677190700758363}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: flower_string_10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31735,7 +31735,7 @@ GameObject:
   - component: {fileID: 10563675580295676}
   - component: {fileID: 3137802862990530923}
   - component: {fileID: 1437871314177548380}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: apron_top
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31847,7 +31847,7 @@ GameObject:
   - component: {fileID: 6922745634154878428}
   - component: {fileID: 6658317106123113577}
   - component: {fileID: 884141885738807549}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: mouth_bottom_skin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31959,7 +31959,7 @@ GameObject:
   - component: {fileID: 5641336913968340610}
   - component: {fileID: 349991009523377280}
   - component: {fileID: 1953665456224782350}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_shade_11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32068,7 +32068,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9021306311997916214}
   - component: {fileID: 8811486759574480444}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_hair_a2_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32113,7 +32113,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3512946063422982974}
   - component: {fileID: 7540410638042489436}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part34
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32158,7 +32158,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8004253622412564660}
   - component: {fileID: 6078629068488050991}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_ear_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32203,7 +32203,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7838122415425090493}
   - component: {fileID: 1708497191237691099}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_flower_string_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32251,7 +32251,7 @@ GameObject:
   - component: {fileID: 1105548525813964179}
   - component: {fileID: 5607365142123831916}
   - component: {fileID: 883731021804455216}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: apron_top_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32360,7 +32360,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8464610048186239442}
   - component: {fileID: 3333565770535752962}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_right_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32405,7 +32405,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8064794608081842395}
   - component: {fileID: 3416515031984261993}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part32
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32453,7 +32453,7 @@ GameObject:
   - component: {fileID: 422772472987562567}
   - component: {fileID: 5224554017298822598}
   - component: {fileID: 5526747068023492214}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_left_12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32562,7 +32562,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5682226799544966947}
   - component: {fileID: 3857514719841633559}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: flower_string_2_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32610,7 +32610,7 @@ GameObject:
   - component: {fileID: 7513033776203157474}
   - component: {fileID: 8571659702174053907}
   - component: {fileID: 6226370423960383769}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_right6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32719,7 +32719,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1527218941689756462}
   - component: {fileID: 1150904262390723484}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamSweatPos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32767,7 +32767,7 @@ GameObject:
   - component: {fileID: 1073927462717509771}
   - component: {fileID: 5969695487067257583}
   - component: {fileID: 2264388324122420800}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_shine_left_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32876,7 +32876,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3789554411538075840}
   - component: {fileID: 9034676557640288034}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamEarRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32924,7 +32924,7 @@ GameObject:
   - component: {fileID: 4652430438504110889}
   - component: {fileID: 5084407191908111837}
   - component: {fileID: 5894976083507243328}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: shock_lines
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33036,7 +33036,7 @@ GameObject:
   - component: {fileID: 5974036868439832434}
   - component: {fileID: 2411941635288133953}
   - component: {fileID: 8430527845934326626}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: mouth_inside
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33145,7 +33145,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1940763164404365262}
   - component: {fileID: 2945566986011859617}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_hair_skin_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33193,7 +33193,7 @@ GameObject:
   - component: {fileID: 622059203487383081}
   - component: {fileID: 8802013745569983799}
   - component: {fileID: 6023342114308229136}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid_ex3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33302,7 +33302,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6999651076997968333}
   - component: {fileID: 5210308304149554106}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: apron
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33347,7 +33347,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2282826507037217743}
   - component: {fileID: 4712635615546878653}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_flower_string_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33392,7 +33392,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5833383985702646994}
   - component: {fileID: 6317986563264944907}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_hair_a2_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33440,7 +33440,7 @@ GameObject:
   - component: {fileID: 8598593626314053972}
   - component: {fileID: 4051251759795223079}
   - component: {fileID: 287765420503947698}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_left_8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33552,7 +33552,7 @@ GameObject:
   - component: {fileID: 2561139844799484804}
   - component: {fileID: 95387314584118191}
   - component: {fileID: 3268212024901873881}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_left_in6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33664,7 +33664,7 @@ GameObject:
   - component: {fileID: 8575824178189476897}
   - component: {fileID: 6870668373479577021}
   - component: {fileID: 6212748706050586946}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: skirt_left_top2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33773,7 +33773,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8537984904174255883}
   - component: {fileID: 5929756914519672177}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamBrowRY
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33821,7 +33821,7 @@ GameObject:
   - component: {fileID: 1441705343960566530}
   - component: {fileID: 7332040691846985818}
   - component: {fileID: 1125652026363052327}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_right3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33930,7 +33930,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7268930659561446665}
   - component: {fileID: 7267264113041973190}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33975,7 +33975,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7917458618958731478}
   - component: {fileID: 6725447959695321282}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_hair_a2_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34023,7 +34023,7 @@ GameObject:
   - component: {fileID: 8672287124300146383}
   - component: {fileID: 2950257225558047879}
   - component: {fileID: 7827371277412439857}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34132,7 +34132,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6121463595996022885}
   - component: {fileID: 981865852247323606}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34177,7 +34177,7 @@ GameObject:
   m_Component:
   - component: {fileID: 394224564775157536}
   - component: {fileID: 7925953237714396877}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_a2_left_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34225,7 +34225,7 @@ GameObject:
   - component: {fileID: 1622410498378510887}
   - component: {fileID: 7988670937286627754}
   - component: {fileID: 5606982712626001030}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_right_in3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34337,7 +34337,7 @@ GameObject:
   - component: {fileID: 5917997287396469345}
   - component: {fileID: 2174692530995305354}
   - component: {fileID: 7514166409267969794}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_shade_13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34446,7 +34446,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6707560741013816087}
   - component: {fileID: 4519138589868591275}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamEyeSize
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34491,7 +34491,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1125190097278567588}
   - component: {fileID: 69989199804032957}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_hair_mid_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34539,7 +34539,7 @@ GameObject:
   - component: {fileID: 2907068184508152630}
   - component: {fileID: 7245739777218943160}
   - component: {fileID: 222099418720026209}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34651,7 +34651,7 @@ GameObject:
   - component: {fileID: 510752355839740698}
   - component: {fileID: 7357429215580796870}
   - component: {fileID: 6167608664801977236}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: flower_string_8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34760,7 +34760,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5761059142765738101}
   - component: {fileID: 6597800271112707465}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_right_shade_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34808,7 +34808,7 @@ GameObject:
   - component: {fileID: 2027116673228740143}
   - component: {fileID: 117296344524019746}
   - component: {fileID: 8530750491017774034}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: neck_shadow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34920,7 +34920,7 @@ GameObject:
   - component: {fileID: 1713928788511616498}
   - component: {fileID: 7034854726305949180}
   - component: {fileID: 3471880606662197646}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: tail_mofu10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35032,7 +35032,7 @@ GameObject:
   - component: {fileID: 2406881955021698723}
   - component: {fileID: 1608325733705973175}
   - component: {fileID: 6803486749510503142}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: cat_eye_white_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35141,7 +35141,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5367422953391760763}
   - component: {fileID: 4514591499373756097}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_hair_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35189,7 +35189,7 @@ GameObject:
   - component: {fileID: 4026272880777000192}
   - component: {fileID: 8391623941900285126}
   - component: {fileID: 538652710842003539}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: strings_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35298,7 +35298,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3086046733249688081}
   - component: {fileID: 1356046323343155815}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_back_right_in
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35346,7 +35346,7 @@ GameObject:
   - component: {fileID: 954903860791067929}
   - component: {fileID: 1704155083811004519}
   - component: {fileID: 428652786822208986}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: cat_eye_right_bottom2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35458,7 +35458,7 @@ GameObject:
   - component: {fileID: 5670347274834677358}
   - component: {fileID: 4405760502004761016}
   - component: {fileID: 3562909076438341075}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: flower_string_11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35567,7 +35567,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4837454718005616745}
   - component: {fileID: 4797686680012151572}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid_ex_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35612,7 +35612,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8905140905933253341}
   - component: {fileID: 6070931817707880521}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamEyeBackAdd
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35660,7 +35660,7 @@ GameObject:
   - component: {fileID: 2795480827301012617}
   - component: {fileID: 4702180978295915194}
   - component: {fileID: 4216567911710440601}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: leg_right_bottom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35769,7 +35769,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2516979074944525885}
   - component: {fileID: 232618511753607917}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_13_tail_mofu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35817,7 +35817,7 @@ GameObject:
   - component: {fileID: 3638883322715384198}
   - component: {fileID: 192063941855230329}
   - component: {fileID: 8722119890298789994}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: apron_bottom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35926,7 +35926,7 @@ GameObject:
   m_Component:
   - component: {fileID: 343202375827371341}
   - component: {fileID: 1332531167590239185}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamEyeRSmile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35971,7 +35971,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1613130532776918912}
   - component: {fileID: 7862491360734484260}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_hair_mid
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36019,7 +36019,7 @@ GameObject:
   - component: {fileID: 4420629292235614832}
   - component: {fileID: 4457563460097132723}
   - component: {fileID: 9089167166216564927}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36131,7 +36131,7 @@ GameObject:
   - component: {fileID: 2750952495734032006}
   - component: {fileID: 4190732046195247876}
   - component: {fileID: 9111957900251730832}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: sweat
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36243,7 +36243,7 @@ GameObject:
   - component: {fileID: 2749470199447850297}
   - component: {fileID: 1345246819525866656}
   - component: {fileID: 4321792228853133345}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: tail_mofu17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36355,7 +36355,7 @@ GameObject:
   - component: {fileID: 8079337217065990324}
   - component: {fileID: 4290806506216535180}
   - component: {fileID: 3348600068747073894}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: leg_left_knee_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36467,7 +36467,7 @@ GameObject:
   - component: {fileID: 7596672785808700180}
   - component: {fileID: 4608547732549671548}
   - component: {fileID: 7962639045912821073}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: fang_skin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36576,7 +36576,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2629407332980739892}
   - component: {fileID: 1841046654121281759}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_back_right_in
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36621,7 +36621,7 @@ GameObject:
   m_Component:
   - component: {fileID: 469668412512789907}
   - component: {fileID: 9099082470168266989}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_hair_mid
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36666,7 +36666,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4021995035082551596}
   - component: {fileID: 2059384805437204532}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36714,7 +36714,7 @@ GameObject:
   - component: {fileID: 6653860587689800424}
   - component: {fileID: 8173518344175979520}
   - component: {fileID: 1988631285586397111}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: cat_eye_right_top2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36823,7 +36823,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8397564861690351122}
   - component: {fileID: 6906498459440991402}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_9_tail_mofu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36868,7 +36868,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2274093694885689053}
   - component: {fileID: 5929878677422963134}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_hair_skin_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36913,7 +36913,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8986204370749918120}
   - component: {fileID: 6321259856413802308}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_hair_a2_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36961,7 +36961,7 @@ GameObject:
   - component: {fileID: 1573881911728263681}
   - component: {fileID: 2015873403724718604}
   - component: {fileID: 3764799792594740266}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_right4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37073,7 +37073,7 @@ GameObject:
   - component: {fileID: 368188908315757541}
   - component: {fileID: 6702937229612002216}
   - component: {fileID: 8013269181816217277}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_right_out3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37182,7 +37182,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6144397197915814415}
   - component: {fileID: 3064443262550613659}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_hair_a2_left_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37227,7 +37227,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2418837778393416490}
   - component: {fileID: 8285968423728269061}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamNormalMouth
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37272,7 +37272,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5991215803491010780}
   - component: {fileID: 1064364453792251655}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: tail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37320,7 +37320,7 @@ GameObject:
   - component: {fileID: 5833049867933065169}
   - component: {fileID: 6609546760955954082}
   - component: {fileID: 6059702481859594888}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_left_shade2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37432,7 +37432,7 @@ GameObject:
   - component: {fileID: 11655097469331963}
   - component: {fileID: 2391075424660100072}
   - component: {fileID: 7866644534784714601}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_right_top
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37544,7 +37544,7 @@ GameObject:
   - component: {fileID: 7606148503684883992}
   - component: {fileID: 3490953495670861779}
   - component: {fileID: 5076959637104735316}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_left_out2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37653,7 +37653,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7995622856777515319}
   - component: {fileID: 1331796649431200629}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: skirt_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37701,7 +37701,7 @@ GameObject:
   - component: {fileID: 503125078054167164}
   - component: {fileID: 2638969627898860498}
   - component: {fileID: 6268527954997793239}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: shock_main
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37810,7 +37810,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2166812588783857585}
   - component: {fileID: 2219371393718201565}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_hair_side_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37858,7 +37858,7 @@ GameObject:
   - component: {fileID: 7583615329732540505}
   - component: {fileID: 3606017477504734256}
   - component: {fileID: 5399453180598052859}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: tail_mofu8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37970,7 +37970,7 @@ GameObject:
   - component: {fileID: 7482414190348704873}
   - component: {fileID: 4287649151037260240}
   - component: {fileID: 5301410222285805837}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: cat_eye_left_top2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38082,7 +38082,7 @@ GameObject:
   - component: {fileID: 4821944488619090517}
   - component: {fileID: 3892166326276500445}
   - component: {fileID: 7019692252018031387}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: flower_string_7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38194,7 +38194,7 @@ GameObject:
   - component: {fileID: 7551965317905987521}
   - component: {fileID: 5263829313177281153}
   - component: {fileID: 1527035589195220639}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_shine_left_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38306,7 +38306,7 @@ GameObject:
   - component: {fileID: 4118161778900307962}
   - component: {fileID: 3557558844384873631}
   - component: {fileID: 2234951463189145286}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_a2_right3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38418,7 +38418,7 @@ GameObject:
   - component: {fileID: 7111567907469699808}
   - component: {fileID: 3408228560534093177}
   - component: {fileID: 2254646615501193093}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_right_shade2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38530,7 +38530,7 @@ GameObject:
   - component: {fileID: 2216568238017899076}
   - component: {fileID: 5889736435403472266}
   - component: {fileID: 4360623921781959620}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_right_in4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38639,7 +38639,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3058809933270183291}
   - component: {fileID: 2957663445449992159}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_hair_skin_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38684,7 +38684,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9173579154977647138}
   - component: {fileID: 2159315066905251426}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_8_tail_mofu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38732,7 +38732,7 @@ GameObject:
   - component: {fileID: 8478899817490840993}
   - component: {fileID: 842870899179311613}
   - component: {fileID: 6110544779062426708}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38841,7 +38841,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3653557104015023162}
   - component: {fileID: 7811330304146517012}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_back_left_in
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38886,7 +38886,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8447996919135825326}
   - component: {fileID: 7765143826140011668}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_hair_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38934,7 +38934,7 @@ GameObject:
   - component: {fileID: 1523308715148341933}
   - component: {fileID: 2663782624318082566}
   - component: {fileID: 8319901516371396480}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_right_out5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39046,7 +39046,7 @@ GameObject:
   - component: {fileID: 5620376524185749915}
   - component: {fileID: 4514115394593110650}
   - component: {fileID: 7540051775556447290}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_left5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39155,7 +39155,7 @@ GameObject:
   m_Component:
   - component: {fileID: 673578358056036272}
   - component: {fileID: 6131937508921023292}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_tail_mofu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39203,7 +39203,7 @@ GameObject:
   - component: {fileID: 7322742054553307022}
   - component: {fileID: 2823882712635882319}
   - component: {fileID: 1105983103680827671}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_left_9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39312,7 +39312,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4642091766863631521}
   - component: {fileID: 3801184896325862093}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_hair_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39357,7 +39357,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3842161393613975301}
   - component: {fileID: 7208088026338191206}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39402,7 +39402,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5646022806725583693}
   - component: {fileID: 3504985216756295739}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_back_left_out
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39450,7 +39450,7 @@ GameObject:
   - component: {fileID: 6841256578763355062}
   - component: {fileID: 7208749505745844207}
   - component: {fileID: 744183611915370034}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39559,7 +39559,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2877159686208094525}
   - component: {fileID: 855378086311717809}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_flower_string_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39607,7 +39607,7 @@ GameObject:
   - component: {fileID: 5391932739397957253}
   - component: {fileID: 758605608973834176}
   - component: {fileID: 7130850350020814169}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_left_2_shade5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39716,7 +39716,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6244589430712022429}
   - component: {fileID: 7048370484946136351}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_hair_a2_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39761,7 +39761,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2437367401198964463}
   - component: {fileID: 145659518037393230}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_left_out_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39809,7 +39809,7 @@ GameObject:
   - component: {fileID: 1800328506219404970}
   - component: {fileID: 5911324850799356492}
   - component: {fileID: 2574029183082742260}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: back_left_in5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39921,7 +39921,7 @@ GameObject:
   - component: {fileID: 372373753357817988}
   - component: {fileID: 8107098163369210045}
   - component: {fileID: 6363862647745076906}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_right_top
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40030,7 +40030,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6881880231646001932}
   - component: {fileID: 5608368576353790856}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_back_right_out
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40075,7 +40075,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7403725261826581086}
   - component: {fileID: 2152424874503859143}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40120,7 +40120,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1827320239640363120}
   - component: {fileID: 1609256078793444848}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_hair_a2_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40165,7 +40165,7 @@ GameObject:
   m_Component:
   - component: {fileID: 595203638115451028}
   - component: {fileID: 6234185365510371724}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamEyeBallX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40213,7 +40213,7 @@ GameObject:
   - component: {fileID: 7617310525600594427}
   - component: {fileID: 4935948551276496325}
   - component: {fileID: 7341807768470118818}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: left_leg_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40322,7 +40322,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3632994047148253967}
   - component: {fileID: 884397501002284908}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_3_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40370,7 +40370,7 @@ GameObject:
   - component: {fileID: 1967042290201383613}
   - component: {fileID: 8883216634023566674}
   - component: {fileID: 7228612085630901353}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_left_extra_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40479,7 +40479,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5818392587446922889}
   - component: {fileID: 5750674837960031370}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_flower_string_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40527,7 +40527,7 @@ GameObject:
   - component: {fileID: 9188074688647235346}
   - component: {fileID: 2193146984823139098}
   - component: {fileID: 8194864771359551525}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_a2_left3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40636,7 +40636,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8157260561819868928}
   - component: {fileID: 3732335912766847606}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamBrowRAngle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40681,7 +40681,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4431609232760838937}
   - component: {fileID: 185877753530024531}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part15
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40726,7 +40726,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6705249917196590026}
   - component: {fileID: 7297786221279471366}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40774,7 +40774,7 @@ GameObject:
   - component: {fileID: 1734927632849147889}
   - component: {fileID: 3402075705905808541}
   - component: {fileID: 6380857451354725620}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_left_2_shade4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40883,7 +40883,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9084107360864461875}
   - component: {fileID: 5996940559906523104}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part31
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40928,7 +40928,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9131136734863650917}
   - component: {fileID: 8566133000219790837}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_7_flower_string_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40976,7 +40976,7 @@ GameObject:
   - component: {fileID: 3738546311463252057}
   - component: {fileID: 4511264898353654294}
   - component: {fileID: 5058536594127124316}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_left_top2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41085,7 +41085,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9130436940579474658}
   - component: {fileID: 642243247577678196}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_hair_a2_left_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41133,7 +41133,7 @@ GameObject:
   - component: {fileID: 1123622454384363356}
   - component: {fileID: 8018037632298841179}
   - component: {fileID: 8358837985816016487}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_right6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41245,7 +41245,7 @@ GameObject:
   - component: {fileID: 3765203936552448387}
   - component: {fileID: 2780874240741014594}
   - component: {fileID: 6169871255800724078}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid_left5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41357,7 +41357,7 @@ GameObject:
   - component: {fileID: 2982660919631887624}
   - component: {fileID: 1943335930476836716}
   - component: {fileID: 786145494465805825}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: flower_string_14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41466,7 +41466,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5351050097868352571}
   - component: {fileID: 8800812128243322769}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: EyeOverHair
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41511,7 +41511,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1856762678325504220}
   - component: {fileID: 922888467337694924}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Part9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41556,7 +41556,7 @@ GameObject:
   m_Component:
   - component: {fileID: 114827240886425169}
   - component: {fileID: 2412965720836043570}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_right_shade_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41601,7 +41601,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6673747084457869221}
   - component: {fileID: 8166617051318303027}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_6_tail_mofu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41646,7 +41646,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5158621921417086559}
   - component: {fileID: 873854132656131447}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_hair_skin_shade_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41694,7 +41694,7 @@ GameObject:
   - component: {fileID: 5648020896490730533}
   - component: {fileID: 1699958352493761831}
   - component: {fileID: 2706731501064799358}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_a2_right4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41806,7 +41806,7 @@ GameObject:
   - component: {fileID: 8342586176251318273}
   - component: {fileID: 3762611706927425161}
   - component: {fileID: 5669547841670356277}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid_right6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41915,7 +41915,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2261512450137874875}
   - component: {fileID: 3977252953158393702}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_hair_mid_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41960,7 +41960,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1681167377880811017}
   - component: {fileID: 2604554751093964226}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamFang
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42005,7 +42005,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8731910860599701681}
   - component: {fileID: 145436417155690336}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_hair_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42050,7 +42050,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8694683256998560348}
   - component: {fileID: 4153683109368684511}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_hair_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42095,7 +42095,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4337506049000566694}
   - component: {fileID: 5583188178933140886}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamEyeROpen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42143,7 +42143,7 @@ GameObject:
   - component: {fileID: 5676189681862447295}
   - component: {fileID: 5595505276729006313}
   - component: {fileID: 5144854844021170563}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: sleeve_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42252,7 +42252,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3539035271359849304}
   - component: {fileID: 3308914563127752069}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_5_hair_a2_left_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42297,7 +42297,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5831161292012515727}
   - component: {fileID: 914240432219182906}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eyes_cat
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42342,7 +42342,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2707291410754793820}
   - component: {fileID: 7105704080932770489}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_2_hair_skin_shade_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42387,7 +42387,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1842324731000999094}
   - component: {fileID: 732390582318095046}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42435,7 +42435,7 @@ GameObject:
   - component: {fileID: 783928794203540406}
   - component: {fileID: 268743529172799341}
   - component: {fileID: 7096637014140246081}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_right_shade6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42547,7 +42547,7 @@ GameObject:
   - component: {fileID: 7160586025635392008}
   - component: {fileID: 506422074018397242}
   - component: {fileID: 7714910622087640789}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_shade_12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42656,7 +42656,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6128097291706927321}
   - component: {fileID: 2926572928488959178}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: EarPhysics
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42701,7 +42701,7 @@ GameObject:
   m_Component:
   - component: {fileID: 463520943767387296}
   - component: {fileID: 838745752505748039}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_hair_side_left_2_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42749,7 +42749,7 @@ GameObject:
   - component: {fileID: 8695361637995128959}
   - component: {fileID: 5758922839295420603}
   - component: {fileID: 8406341295571963364}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_left_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42861,7 +42861,7 @@ GameObject:
   - component: {fileID: 6178514151784583653}
   - component: {fileID: 3992699338550275738}
   - component: {fileID: 5750761589054744599}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42973,7 +42973,7 @@ GameObject:
   - component: {fileID: 4998567854605600555}
   - component: {fileID: 7086800049615158087}
   - component: {fileID: 5275694175163321524}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_left_2_shade6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43085,7 +43085,7 @@ GameObject:
   - component: {fileID: 3472441807075001283}
   - component: {fileID: 8895336518897749707}
   - component: {fileID: 201171726780635871}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_left_fluff
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43197,7 +43197,7 @@ GameObject:
   - component: {fileID: 1720769421243568044}
   - component: {fileID: 2660060458772530984}
   - component: {fileID: 6520074794881695543}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: iris_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43306,7 +43306,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5361521263862762384}
   - component: {fileID: 1508490580764988726}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: brows
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43354,7 +43354,7 @@ GameObject:
   - component: {fileID: 5047501951717087522}
   - component: {fileID: 7903823296827592675}
   - component: {fileID: 2474487633324916997}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_left_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43466,7 +43466,7 @@ GameObject:
   - component: {fileID: 6507466955473983207}
   - component: {fileID: 7351327295253022684}
   - component: {fileID: 9081812525147262167}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_right_shade5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43575,7 +43575,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5322455835552205413}
   - component: {fileID: 3918300121538328530}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_right_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43620,7 +43620,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4795030028815548843}
   - component: {fileID: 3046699353688073625}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamAngleZ
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43665,7 +43665,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7456291956033423701}
   - component: {fileID: 4558849207651622873}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eyes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43710,7 +43710,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6094755888296021741}
   - component: {fileID: 8471930004849238414}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_hair_skin_shade_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43755,7 +43755,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8571692555038547838}
   - component: {fileID: 5855403197013918079}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_3_hair_skin_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43800,7 +43800,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6126617351234921893}
   - component: {fileID: 2658867541316299007}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_2_Skinning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43848,7 +43848,7 @@ GameObject:
   - component: {fileID: 2083068580177616910}
   - component: {fileID: 8245816085397095178}
   - component: {fileID: 4982491152683353652}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_a2_left6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43957,7 +43957,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6885911075662588280}
   - component: {fileID: 5977131023306035468}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamTail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44005,7 +44005,7 @@ GameObject:
   - component: {fileID: 8634522203541753990}
   - component: {fileID: 5720672634353163691}
   - component: {fileID: 9093138357412228616}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_24
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44117,7 +44117,7 @@ GameObject:
   - component: {fileID: 2260886851138638989}
   - component: {fileID: 9057023791502089919}
   - component: {fileID: 7748386383422435741}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_mid3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44226,7 +44226,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7292898037385762467}
   - component: {fileID: 2651889484935944266}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_12_tail_mofu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44271,7 +44271,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5423328371249197263}
   - component: {fileID: 7942108458266129841}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_ear_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44319,7 +44319,7 @@ GameObject:
   - component: {fileID: 1301082377772855873}
   - component: {fileID: 8156268270581265486}
   - component: {fileID: 2367672634869251607}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: cat_eye_right_bottom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44428,7 +44428,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5418417177661583068}
   - component: {fileID: 1650544121170690363}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_1_hair_side_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44473,7 +44473,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6146078539388062837}
   - component: {fileID: 280638312069109261}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_a2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44518,7 +44518,7 @@ GameObject:
   m_Component:
   - component: {fileID: 901847081570143753}
   - component: {fileID: 5511766082658073381}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_back_right_in
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44566,7 +44566,7 @@ GameObject:
   - component: {fileID: 8068249671509861042}
   - component: {fileID: 6361011862633434042}
   - component: {fileID: 7668442597439650916}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ear_left_top
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44678,7 +44678,7 @@ GameObject:
   - component: {fileID: 8546733534257067390}
   - component: {fileID: 2614846549455584992}
   - component: {fileID: 4375266293046748975}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_skin_shade_7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44787,7 +44787,7 @@ GameObject:
   m_Component:
   - component: {fileID: 625157326262396590}
   - component: {fileID: 3001863702192040002}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ParamLeftLeg1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44835,7 +44835,7 @@ GameObject:
   - component: {fileID: 2319426150201093264}
   - component: {fileID: 5666235590397025881}
   - component: {fileID: 4167636026948065572}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: eye_left_dots2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44947,7 +44947,7 @@ GameObject:
   - component: {fileID: 209748926099989899}
   - component: {fileID: 6094040939243734645}
   - component: {fileID: 2126099593309293462}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: cat_eye_left_bottom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45056,7 +45056,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7336197503093663967}
   - component: {fileID: 1831641277518718787}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Param_Angle_Rotation_4_hair_side_left_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45104,7 +45104,7 @@ GameObject:
   - component: {fileID: 2070629766984994928}
   - component: {fileID: 2651975065998259162}
   - component: {fileID: 7822956400126483095}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: hair_side_right_shade3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45216,7 +45216,7 @@ GameObject:
   - component: {fileID: 593542567239131519}
   - component: {fileID: 6511028375397680086}
   - component: {fileID: 1386591785940886947}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: flower_string_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45328,7 +45328,7 @@ GameObject:
   - component: {fileID: 6618922304113419497}
   - component: {fileID: 8414334957245901066}
   - component: {fileID: 109465957718632960}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: cat_eye_right_shade
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45440,7 +45440,7 @@ GameObject:
   - component: {fileID: 645476313783542735}
   - component: {fileID: 4614446538264917954}
   - component: {fileID: 4400476963799568205}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: cat_eye_iris_left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
